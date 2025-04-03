@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E287B-AF89-4E8A-8588-9DA8622B8D40}|1244\\1244.vcxproj|C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\1244\\solution2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89E287B-AF89-4E8A-8588-9DA8622B8D40}|1244\\1244.vcxproj|solutionrelative:1244\\solution2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89E287B-AF89-4E8A-8588-9DA8622B8D40}|1244\\1244.vcxproj|C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\1244\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89E287B-AF89-4E8A-8588-9DA8622B8D40}|1244\\1244.vcxproj|solutionrelative:1244\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solution2.cpp",
+              "DocumentMoniker": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\1244\\solution2.cpp",
+              "RelativeDocumentMoniker": "1244\\solution2.cpp",
+              "ToolTip": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\1244\\solution2.cpp",
+              "RelativeToolTip": "1244\\solution2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T14:52:22.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "solution.cpp",
+              "DocumentMoniker": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\1244\\solution.cpp",
+              "RelativeDocumentMoniker": "1244\\solution.cpp",
+              "ToolTip": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\1244\\1244\\solution.cpp",
+              "RelativeToolTip": "1244\\solution.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0gAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T10:26:35.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

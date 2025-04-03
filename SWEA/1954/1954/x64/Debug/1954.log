@@ -1,0 +1,4 @@
+﻿  solution.cpp
+C:\Users\tmdrj\Fork\study\SWEA\1954\1954\solution.cpp(42,6): warning C4101: 'num_count' :참조되지 않은 지역 변수입니다.
+C:\Users\tmdrj\Fork\study\SWEA\1954\1954\solution.cpp(40,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  1954.vcxproj -> C:\Users\tmdrj\Fork\study\SWEA\1954\x64\Debug\1954.exe

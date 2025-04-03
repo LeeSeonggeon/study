@@ -1,0 +1,7 @@
+﻿  solution.cpp
+C:\Users\tmdrj\Fork\study\SWEA\1206\1206\solution.cpp(5,9): warning C4005: 'INT_MAX': 매크로 재정의
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\limits.h(36,9):
+      'INT_MAX'의 이전 정의를 참조하십시오.
+  
+C:\Users\tmdrj\Fork\study\SWEA\1206\1206\solution.cpp(37,6): warning C4101: 'T' :참조되지 않은 지역 변수입니다.
+  1206.vcxproj -> C:\Users\tmdrj\Fork\study\SWEA\1206\x64\Debug\1206.exe
