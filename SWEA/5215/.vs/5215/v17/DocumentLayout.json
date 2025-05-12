@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\5215\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3597158-C7B0-4FB5-8A46-C7475DB20513}|5215\\5215.vcxproj|C:\\Users\\tmdrj\\Fork\\study\\SWEA\\5215\\5215\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3597158-C7B0-4FB5-8A46-C7475DB20513}|5215\\5215.vcxproj|solutionrelative:5215\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solution.cpp",
+              "DocumentMoniker": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\5215\\5215\\solution.cpp",
+              "RelativeDocumentMoniker": "5215\\solution.cpp",
+              "ToolTip": "C:\\Users\\tmdrj\\Fork\\study\\SWEA\\5215\\5215\\solution.cpp",
+              "RelativeToolTip": "5215\\solution.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T12:21:22.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
